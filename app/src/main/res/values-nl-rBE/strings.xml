@@ -259,7 +259,7 @@ Instructies:
 	<string name="install_guide_zip_file_deleted">Je hebt het root-bestand wat je hebt geselecteerd verwijderd. Kies hierboven een nieuw root-bestand.</string>
 	<string name="install_guide_zip_file_missing">"Als je root-toegang wil behouden, moet je hierboven een root-bestand selecteren."</string>
 	<!-- Device information strings -->
-	<string name="device_information_supported_oxygen_os">Je apparaat wordt ondersteunt.</string>
+	<string name="device_information_supported_oxygen_os">Je apparaat wordt ondersteund.</string>
 	<string name="device_information_carrier_exclusive_oxygen_os">Je apparaat wordt niet ondersteund, omdat het een provider-exclusief apparaat is.</string>
 	<string name="device_information_unsupported_oxygen_os">We hebben nog geen ondersteuning toegevoegd voor je nieuwe apparaat.</string>
 	<string name="device_information_unsupported_os">Je apparaat wordt niet ondersteund, omdat het niet ondersteund wordt door OxygenOS.</string>
